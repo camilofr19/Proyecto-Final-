@@ -25,7 +25,7 @@ Analizar cómo ha evolucionado la adopción de vehículos eléctricos en distint
 
 Documentos
   Documento/Entrega proyecto.pdf - Informe completo del análisis, hallazgos y visualizaciones.
-	•	dataset_IEA.csv (opcional si decides incluirlo) – Dataset histórico de la IEA.
+	•	dataset_IEA.csv  – Dataset histórico de la IEA.
 
 Scripts 
   •	analisis_ev.ipynb
