@@ -24,7 +24,7 @@ Analizar cómo ha evolucionado la adopción de vehículos eléctricos en distint
 # Estructura del Repositorio 
 
 Documentos
-  •	Entrega_proyecto.pdf – Informe completo del análisis, hallazgos y visualizaciones.
+  Documento/Entrega proyecto.pdf - Informe completo del análisis, hallazgos y visualizaciones.
 	•	dataset_IEA.csv (opcional si decides incluirlo) – Dataset histórico de la IEA.
 
 Scripts 
